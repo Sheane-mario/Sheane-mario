@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Undergraduate
 ------------------------------
 
-I'm a computer science undergraduate studying at the University of Colombo School of Computing (UCSC). I started my IT journey with front-end web development and switched to AI and ML. I'm a CP enthusiast and interested in Mathematics, Physics, and computer science.
+I'm a computer science undergraduate at the University of Colombo School of Computing (UCSC). I'm highly interested in Evolutionary Computing and natural algorithms. Currently, I'm working in the field of Genetic Programming as a hobby researcher. CP and solving mathematical puzzles, which originate from recreational mathematics, are my leisure activities.
 
 * 🌍  I'm based in Negombo
 * ✉️  You can contact me at [sheanemario7@gmail.com](mailto:sheanemario7@gmail.com)
-* 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I'm secretly a human, ...... but don't tell anyone
+* 🧠  I'm a hobby researcher in the field of Evolutionary Computing.
+* 🤝  I'm open to collaborating on Projects that involve novelty.
+* ⚡  I don't try to be a superhuman, but understand that being a human is super.
 
 ### Skills
 
